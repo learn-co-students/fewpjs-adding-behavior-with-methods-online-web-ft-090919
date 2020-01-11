@@ -17,5 +17,18 @@
     "mocha": "^5.2.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jendnice/fewpjs-adding-behavior-with-methods-online-web-ft-090919.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Jendnice/fewpjs-adding-behavior-with-methods-online-web-ft-090919/issues"
+  },
+  "homepage": "https://github.com/Jendnice/fewpjs-adding-behavior-with-methods-online-web-ft-090919#readme"
 }
